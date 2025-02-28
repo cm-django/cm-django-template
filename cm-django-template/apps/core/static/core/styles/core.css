@@ -1,0 +1,8 @@
+
+.container-fluid {
+    min-height: 100vh !important;
+}
+
+#footer {
+    width: 100vw;
+}
